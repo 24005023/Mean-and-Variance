@@ -1,6 +1,4 @@
 #  Mean and variance of a discrete  distribution
-## Name: praveen  ck
-## Reg no:212222243003
 
 # Aim : 
 
