@@ -1,6 +1,6 @@
 #  Mean and variance of a discrete  distribution
-## Name: praveen  ck
-## Reg no:212222243003
+## Name: santhosh sudhakar
+## Reg no: 240050223
 
 # Aim : 
 
