@@ -1,17 +1,12 @@
-#  Mean and variance of a discrete  distribution
-
-
+# Exp no:1 Mean and variance of a discrete  distribution
+  Date:10-10-24
 # Aim : 
-
 To find mean and variance of arrival of objects from the feeder using probability distribution
 
-
 # Software required :  
-
 Python and Visual components tool
 
 # Theory:
-
 The expectation or the mean of a discrete random variable is a weighted average of all possible
 values of the random variable. The weights are the probabilities associated with the corresponding values. 
 It is calculated as,
@@ -48,6 +43,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
+Developed by: Santhosh sudhakar
+Register no: 24005023
 ```python
 import numpy as np
 L=[int(i) for i in input().split()]
